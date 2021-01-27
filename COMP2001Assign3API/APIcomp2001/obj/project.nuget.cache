@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VpQT+uWt3y4z8GCLXjrQYpHosng5sU9y+2D+WFEOzm3hAuGYjoNvrhGXz55w5W+BGfT+GZNOHSAHCExomeOyNQ==",
+  "dgSpecHash": "pHw2IyBZZ1MYiJ+0RBZcHg8T12dMPg+xc5xZO01FumXsJhfQhr1FuNfaWum9zP9pQ9xuBjEGtg2m6ySNvcTm2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\inkbl\\Source\\Repos\\Wizzorb\\COMP2001Assign3API\\APIcomp2001\\APIcomp2001.csproj",
+  "projectFilePath": "C:\\Users\\inkbl\\Source\\Repos\\Wizzorb\\COMP2001Assessment\\COMP2001Assign3API\\APIcomp2001\\ASP.NET API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\inkbl\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\inkbl\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

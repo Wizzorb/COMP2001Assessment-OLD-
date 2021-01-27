@@ -7795,11 +7795,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\inkbl\\Source\\Repos\\Wizzorb\\COMP2001Assign3API\\APIcomp2001\\APIcomp2001.csproj",
-      "projectName": "APIcomp2001",
-      "projectPath": "C:\\Users\\inkbl\\Source\\Repos\\Wizzorb\\COMP2001Assign3API\\APIcomp2001\\APIcomp2001.csproj",
+      "projectUniqueName": "C:\\Users\\inkbl\\Source\\Repos\\Wizzorb\\COMP2001Assessment\\COMP2001Assign3API\\APIcomp2001\\ASP.NET API.csproj",
+      "projectName": "ASP.NET API",
+      "projectPath": "C:\\Users\\inkbl\\Source\\Repos\\Wizzorb\\COMP2001Assessment\\COMP2001Assign3API\\APIcomp2001\\ASP.NET API.csproj",
       "packagesPath": "C:\\Users\\inkbl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\inkbl\\Source\\Repos\\Wizzorb\\COMP2001Assign3API\\APIcomp2001\\obj\\",
+      "outputPath": "C:\\Users\\inkbl\\Source\\Repos\\Wizzorb\\COMP2001Assessment\\COMP2001Assign3API\\APIcomp2001\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\inkbl\\AppData\\Roaming\\NuGet\\NuGet.Config",
